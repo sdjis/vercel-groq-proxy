@@ -1,0 +1,173 @@
+﻿node.exe : Vercel CLI 65.14.0
+所在位置 C:\Users\SJCK JCL\AppData\Local\Doubao\User Data\sandbox_runtime\bases\772984f6fd3a8ae0ae7d2422cd7c2bfa\node\verce
+l.ps1:16 字符: 5
++     & "$basedir/node$exe"  "$basedir/node_modules/vercel/dist/vc.js"  ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Vercel CLI 65.14.0:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+> Building your project locally…
+WARNING! Build not running on Vercel. System environment variables will not be available.
+Error: An unexpected error occurred!
+Error: ENOENT: no such file or directory, symlink '..\..\~npm~@edge-runtime+format@2.2.1\node_modules\@edge-runtime\for
+mat' -> 'C:\Users\SJCK JCL\AppData\Local\com.vercel.cli\Cache\builders-vlt\61c9c874c77e3b49b8cc44ac10ab314a1bfcebe1a26d
+7a6a2d268fd4188d2f40\node_modules\.vlt\node_modules\@edge-runtime\format'
+    at async symlink (node:internal/fs/promises:1714:10)
+Error: An unexpected error occurred!
+Error: ENOENT: no such file or directory, symlink '..\..\~npm~@edge-runtime+node-utils@2.3.0\node_modules\@edge-runtime
+\node-utils' -> 'C:\Users\SJCK JCL\AppData\Local\com.vercel.cli\Cache\builders-vlt\61c9c874c77e3b49b8cc44ac10ab314a1bfc
+ebe1a26d7a6a2d268fd4188d2f40\node_modules\.vlt\node_modules\@edge-runtime\node-utils'
+    at async symlink (node:internal/fs/promises:1714:10)
+Error: An unexpected error occurred!
+Error: ENOENT: no such file or directory, symlink '..\..\~npm~@edge-runtime+ponyfill@2.4.2\node_modules\@edge-runtime\p
+onyfill' -> 'C:\Users\SJCK JCL\AppData\Local\com.vercel.cli\Cache\builders-vlt\61c9c874c77e3b49b8cc44ac10ab314a1bfcebe1
+a26d7a6a2d268fd4188d2f40\node_modules\.vlt\node_modules\@edge-runtime\ponyfill'
+    at async symlink (node:internal/fs/promises:1714:10)
+Error: An unexpected error occurred!
+Error: ENOENT: no such file or directory, symlink '..\..\~npm~@edge-runtime+primitives@4.1.0\node_modules\@edge-runtime
+\primitives' -> 'C:\Users\SJCK JCL\AppData\Local\com.vercel.cli\Cache\builders-vlt\61c9c874c77e3b49b8cc44ac10ab314a1bfc
+ebe1a26d7a6a2d268fd4188d2f40\node_modules\.vlt\node_modules\@edge-runtime\primitives'
+    at async symlink (node:internal/fs/promises:1714:10)
+Error: An unexpected error occurred!
+Error: ENOENT: no such file or directory, symlink '..\..\~npm~@edge-runtime+vm@3.2.0\node_modules\@edge-runtime\vm' -> 
+'C:\Users\SJCK JCL\AppData\Local\com.vercel.cli\Cache\builders-vlt\61c9c874c77e3b49b8cc44ac10ab314a1bfcebe1a26d7a6a2d26
+8fd4188d2f40\node_modules\.vlt\node_modules\@edge-runtime\vm'
+    at async symlink (node:internal/fs/promises:1714:10)
+Error: An unexpected error occurred!
+Error: ENOENT: no such file or directory, symlink '..\..\~npm~@emnapi+core@1.11.3\node_modules\@emnapi\core' -> 'C:\Use
+rs\SJCK JCL\AppData\Local\com.vercel.cli\Cache\builders-vlt\61c9c874c77e3b49b8cc44ac10ab314a1bfcebe1a26d7a6a2d268fd4188
+d2f40\node_modules\.vlt\node_modules\@emnapi\core'
+    at async symlink (node:internal/fs/promises:1714:10)
+Error: An unexpected error occurred!
+Error: ENOENT: no such file or directory, symlink '..\..\~npm~@emnapi+runtime@1.11.3\node_modules\@emnapi\runtime' -> '
+C:\Users\SJCK JCL\AppData\Local\com.vercel.cli\Cache\builders-vlt\61c9c874c77e3b49b8cc44ac10ab314a1bfcebe1a26d7a6a2d268
+fd4188d2f40\node_modules\.vlt\node_modules\@emnapi\runtime'
+    at async symlink (node:internal/fs/promises:1714:10)
+Error: An unexpected error occurred!
+Error: ENOENT: no such file or directory, symlink '..\..\~npm~@emnapi+wasi-threads@1.2.3\node_modules\@emnapi\wasi-thre
+ads' -> 'C:\Users\SJCK JCL\AppData\Local\com.vercel.cli\Cache\builders-vlt\61c9c874c77e3b49b8cc44ac10ab314a1bfcebe1a26d
+7a6a2d268fd4188d2f40\node_modules\.vlt\node_modules\@emnapi\wasi-threads'
+    at async symlink (node:internal/fs/promises:1714:10)
+Error: An unexpected error occurred!
+Error: ENOENT: no such file or directory, symlink '..\..\~npm~@esbuild+win32-x64@0.27.0\node_modules\@esbuild\win32-x64
+' -> 'C:\Users\SJCK JCL\AppData\Local\com.vercel.cli\Cache\builders-vlt\61c9c874c77e3b49b8cc44ac10ab314a1bfcebe1a26d7a6
+a2d268fd4188d2f40\node_modules\.vlt\node_modules\@esbuild\win32-x64'
+    at async symlink (node:internal/fs/promises:1714:10)
+Error: An unexpected error occurred!
+Error: ENOENT: no such file or directory, symlink '..\..\~npm~@fastify+busboy@2.1.1\node_modules\@fastify\busboy' -> 'C
+:\Users\SJCK JCL\AppData\Local\com.vercel.cli\Cache\builders-vlt\61c9c874c77e3b49b8cc44ac10ab314a1bfcebe1a26d7a6a2d268f
+d4188d2f40\node_modules\.vlt\node_modules\@fastify\busboy'
+    at async symlink (node:internal/fs/promises:1714:10)
+Error: An unexpected error occurred!
+Error: ENOENT: no such file or directory, symlink '..\..\~npm~@isaacs+fs-minipass@4.0.1\node_modules\@isaacs\fs-minipas
+s' -> 'C:\Users\SJCK JCL\AppData\Local\com.vercel.cli\Cache\builders-vlt\61c9c874c77e3b49b8cc44ac10ab314a1bfcebe1a26d7a
+6a2d268fd4188d2f40\node_modules\.vlt\node_modules\@isaacs\fs-minipass'
+    at async symlink (node:internal/fs/promises:1714:10)
+Error: An unexpected error occurred!
+Error: ENOENT: no such file or directory, symlink '..\..\~npm~@mapbox+node-pre-gyp@2.0.3\node_modules\@mapbox\node-pre-
+gyp' -> 'C:\Users\SJCK JCL\AppData\Local\com.vercel.cli\Cache\builders-vlt\61c9c874c77e3b49b8cc44ac10ab314a1bfcebe1a26d
+7a6a2d268fd4188d2f40\node_modules\.vlt\node_modules\@mapbox\node-pre-gyp'
+    at async symlink (node:internal/fs/promises:1714:10)
+Error: An unexpected error occurred!
+Error: ENOENT: no such file or directory, symlink '..\..\~npm~@napi-rs+wasm-runtime@1.2.7~peer.1\node_modules\@napi-rs\
+wasm-runtime' -> 'C:\Users\SJCK JCL\AppData\Local\com.vercel.cli\Cache\builders-vlt\61c9c874c77e3b49b8cc44ac10ab314a1bf
+cebe1a26d7a6a2d268fd4188d2f40\node_modules\.vlt\node_modules\@napi-rs\wasm-runtime'
+    at async symlink (node:internal/fs/promises:1714:10)
+Error: An unexpected error occurred!
+Error: ENOENT: no such file or directory, symlink '..\..\~npm~@nodelib+fs.scandir@2.1.5\node_modules\@nodelib\fs.scandi
+r' -> 'C:\Users\SJCK JCL\AppData\Local\com.vercel.cli\Cache\builders-vlt\61c9c874c77e3b49b8cc44ac10ab314a1bfcebe1a26d7a
+6a2d268fd4188d2f40\node_modules\.vlt\node_modules\@nodelib\fs.scandir'
+    at async symlink (node:internal/fs/promises:1714:10)
+Error: An unexpected error occurred!
+Error: ENOENT: no such file or directory, symlink '..\..\~npm~@nodelib+fs.stat@2.0.5\node_modules\@nodelib\fs.stat' -> 
+'C:\Users\SJCK JCL\AppData\Local\com.vercel.cli\Cache\builders-vlt\61c9c874c77e3b49b8cc44ac10ab314a1bfcebe1a26d7a6a2d26
+8fd4188d2f40\node_modules\.vlt\node_modules\@nodelib\fs.stat'
+    at async symlink (node:internal/fs/promises:1714:10)
+Error: An unexpected error occurred!
+Error: ENOENT: no such file or directory, symlink '..\..\~npm~@nodelib+fs.walk@1.2.8\node_modules\@nodelib\fs.walk' -> 
+'C:\Users\SJCK JCL\AppData\Local\com.vercel.cli\Cache\builders-vlt\61c9c874c77e3b49b8cc44ac10ab314a1bfcebe1a26d7a6a2d26
+8fd4188d2f40\node_modules\.vlt\node_modules\@nodelib\fs.walk'
+    at async symlink (node:internal/fs/promises:1714:10)
+Error: An unexpected error occurred!
+Error: ENOENT: no such file or directory, symlink '..\..\~npm~@oxc-parser+binding-win32-x64-msvc@0.121.0\node_modules\@
+oxc-parser\binding-win32-x64-msvc' -> 'C:\Users\SJCK JCL\AppData\Local\com.vercel.cli\Cache\builders-vlt\61c9c874c77e3b
+49b8cc44ac10ab314a1bfcebe1a26d7a6a2d268fd4188d2f40\node_modules\.vlt\node_modules\@oxc-parser\binding-win32-x64-msvc'
+    at async symlink (node:internal/fs/promises:1714:10)
+Error: An unexpected error occurred!
+Error: ENOENT: no such file or directory, symlink '..\..\~npm~@oxc-project+types@0.121.0\node_modules\@oxc-project\type
+s' -> 'C:\Users\SJCK JCL\AppData\Local\com.vercel.cli\Cache\builders-vlt\61c9c874c77e3b49b8cc44ac10ab314a1bfcebe1a26d7a
+6a2d268fd4188d2f40\node_modules\.vlt\node_modules\@oxc-project\types'
+    at async symlink (node:internal/fs/promises:1714:10)
+Error: An unexpected error occurred!
+Error: ENOENT: no such file or directory, symlink '..\..\~npm~@rollup+pluginutils@5.5.1~peer.1\node_modules\@rollup\plu
+ginutils' -> 'C:\Users\SJCK JCL\AppData\Local\com.vercel.cli\Cache\builders-vlt\61c9c874c77e3b49b8cc44ac10ab314a1bfcebe
+1a26d7a6a2d268fd4188d2f40\node_modules\.vlt\node_modules\@rollup\pluginutils'
+    at async symlink (node:internal/fs/promises:1714:10)
+Error: An unexpected error occurred!
+Error: ENOENT: no such file or directory, symlink '..\..\~npm~@ts-morph+common@0.11.1\node_modules\@ts-morph\common' ->
+ 'C:\Users\SJCK JCL\AppData\Local\com.vercel.cli\Cache\builders-vlt\61c9c874c77e3b49b8cc44ac10ab314a1bfcebe1a26d7a6a2d2
+68fd4188d2f40\node_modules\.vlt\node_modules\@ts-morph\common'
+    at async symlink (node:internal/fs/promises:1714:10)
+Error: An unexpected error occurred!
+Error: ENOENT: no such file or directory, symlink '..\..\~npm~@tybys+wasm-util@0.10.4\node_modules\@tybys\wasm-util' ->
+ 'C:\Users\SJCK JCL\AppData\Local\com.vercel.cli\Cache\builders-vlt\61c9c874c77e3b49b8cc44ac10ab314a1bfcebe1a26d7a6a2d2
+68fd4188d2f40\node_modules\.vlt\node_modules\@tybys\wasm-util'
+    at async symlink (node:internal/fs/promises:1714:10)
+Error: An unexpected error occurred!
+Error: ENOENT: no such file or directory, symlink '..\..\~npm~@types+estree@1.0.10\node_modules\@types\estree' -> 'C:\U
+sers\SJCK JCL\AppData\Local\com.vercel.cli\Cache\builders-vlt\61c9c874c77e3b49b8cc44ac10ab314a1bfcebe1a26d7a6a2d268fd41
+88d2f40\node_modules\.vlt\node_modules\@types\estree'
+    at async symlink (node:internal/fs/promises:1714:10)
+Error: An unexpected error occurred!
+Error: ENOENT: no such file or directory, symlink '..\..\~npm~@types+json-schema@7.0.15\node_modules\@types\json-schema
+' -> 'C:\Users\SJCK JCL\AppData\Local\com.vercel.cli\Cache\builders-vlt\61c9c874c77e3b49b8cc44ac10ab314a1bfcebe1a26d7a6
+a2d268fd4188d2f40\node_modules\.vlt\node_modules\@types\json-schema'
+    at async symlink (node:internal/fs/promises:1714:10)
+Error: An unexpected error occurred!
+Error: ENOENT: no such file or directory, symlink '..\..\~npm~@types+node@20.11.0\node_modules\@types\node' -> 'C:\User
+s\SJCK JCL\AppData\Local\com.vercel.cli\Cache\builders-vlt\61c9c874c77e3b49b8cc44ac10ab314a1bfcebe1a26d7a6a2d268fd4188d
+2f40\node_modules\.vlt\node_modules\@types\node'
+    at async symlink (node:internal/fs/promises:1714:10)
+Error: An unexpected error occurred!
+Error: ENOENT: no such file or directory, symlink '..\..\~npm~@vercel+build-utils@15.3.0\node_modules\@vercel\build-uti
+ls' -> 'C:\Users\SJCK JCL\AppData\Local\com.vercel.cli\Cache\builders-vlt\61c9c874c77e3b49b8cc44ac10ab314a1bfcebe1a26d7
+a6a2d268fd4188d2f40\node_modules\.vlt\node_modules\@vercel\build-utils'
+    at async symlink (node:internal/fs/promises:1714:10)
+Error: An unexpected error occurred!
+Error: ENOENT: no such file or directory, symlink '..\..\~npm~@vercel+error-utils@2.2.1\node_modules\@vercel\error-util
+s' -> 'C:\Users\SJCK JCL\AppData\Local\com.vercel.cli\Cache\builders-vlt\61c9c874c77e3b49b8cc44ac10ab314a1bfcebe1a26d7a
+6a2d268fd4188d2f40\node_modules\.vlt\node_modules\@vercel\error-utils'
+    at async symlink (node:internal/fs/promises:1714:10)
+Error: An unexpected error occurred!
+Error: ENOENT: no such file or directory, symlink '..\..\~npm~@vercel+nft@1.10.0\node_modules\@vercel\nft' -> 'C:\Users
+\SJCK JCL\AppData\Local\com.vercel.cli\Cache\builders-vlt\61c9c874c77e3b49b8cc44ac10ab314a1bfcebe1a26d7a6a2d268fd4188d2
+f40\node_modules\.vlt\node_modules\@vercel\nft'
+    at async symlink (node:internal/fs/promises:1714:10)
+(node:3368) PromiseRejectionHandledWarning: Promise rejection was handled asynchronously (rejection id: 779)
+(Use `vercel --trace-warnings ...` to show where the warning was created)
+(node:3368) PromiseRejectionHandledWarning: Promise rejection was handled asynchronously (rejection id: 781)
+(node:3368) PromiseRejectionHandledWarning: Promise rejection was handled asynchronously (rejection id: 783)
+(node:3368) PromiseRejectionHandledWarning: Promise rejection was handled asynchronously (rejection id: 785)
+(node:3368) PromiseRejectionHandledWarning: Promise rejection was handled asynchronously (rejection id: 787)
+(node:3368) PromiseRejectionHandledWarning: Promise rejection was handled asynchronously (rejection id: 789)
+(node:3368) PromiseRejectionHandledWarning: Promise rejection was handled asynchronously (rejection id: 791)
+(node:3368) PromiseRejectionHandledWarning: Promise rejection was handled asynchronously (rejection id: 793)
+(node:3368) PromiseRejectionHandledWarning: Promise rejection was handled asynchronously (rejection id: 795)
+(node:3368) PromiseRejectionHandledWarning: Promise rejection was handled asynchronously (rejection id: 797)
+(node:3368) PromiseRejectionHandledWarning: Promise rejection was handled asynchronously (rejection id: 799)
+(node:3368) PromiseRejectionHandledWarning: Promise rejection was handled asynchronously (rejection id: 801)
+(node:3368) PromiseRejectionHandledWarning: Promise rejection was handled asynchronously (rejection id: 803)
+(node:3368) PromiseRejectionHandledWarning: Promise rejection was handled asynchronously (rejection id: 805)
+(node:3368) PromiseRejectionHandledWarning: Promise rejection was handled asynchronously (rejection id: 807)
+(node:3368) PromiseRejectionHandledWarning: Promise rejection was handled asynchronously (rejection id: 809)
+(node:3368) PromiseRejectionHandledWarning: Promise rejection was handled asynchronously (rejection id: 811)
+(node:3368) PromiseRejectionHandledWarning: Promise rejection was handled asynchronously (rejection id: 813)
+(node:3368) PromiseRejectionHandledWarning: Promise rejection was handled asynchronously (rejection id: 815)
+(node:3368) PromiseRejectionHandledWarning: Promise rejection was handled asynchronously (rejection id: 817)
+(node:3368) PromiseRejectionHandledWarning: Promise rejection was handled asynchronously (rejection id: 819)
+(node:3368) PromiseRejectionHandledWarning: Promise rejection was handled asynchronously (rejection id: 821)
+(node:3368) PromiseRejectionHandledWarning: Promise rejection was handled asynchronously (rejection id: 823)
+(node:3368) PromiseRejectionHandledWarning: Promise rejection was handled asynchronously (rejection id: 825)
+(node:3368) PromiseRejectionHandledWarning: Promise rejection was handled asynchronously (rejection id: 827)
+(node:3368) PromiseRejectionHandledWarning: Promise rejection was handled asynchronously (rejection id: 829)
+(node:3368) PromiseRejectionHandledWarning: Promise rejection was handled asynchronously (rejection id: 831)
